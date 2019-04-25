@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sorting" size="500.000000 436.877075" />
+    <ImageTarget name="algorithm" size="500.000000 277.812500" />
+    <ImageTarget name="SortData" size="500.000000 298.795959" />
+  </Tracking>
+</QCARConfig>
